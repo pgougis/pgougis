@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Pierre Gougis
 
-<!--
-**pgougis/pgougis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT consultant and founder of **ALM77 LLC**.  
+I provide tech-enabled digital services and IT consulting to international clients.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Tools
+- dotnet c#, JavaScript,React
+- API integration, automation
+- AWS, Google Cloud, SaaS tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 About me
+I work with global clients and support businesses with cloud, IT services, and digital solutions.
+
+📫 Contact: info@alm77it.com
